@@ -1,0 +1,5 @@
+package com.gestion.empleados.modelo;
+
+public class Empleado {
+
+}
